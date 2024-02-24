@@ -1,0 +1,30 @@
+Main Script Documentation
+Overview
+The main script consists of two primary components: the Named Entity Recognition (NER) model and the Natural Language Understanding (NLU) model. These models are designed to process text data, extract relevant entities, classify text into categories, and perform actions based on the identified intent.
+
+Named Entity Recognition (NER) Model
+The NER model is responsible for extracting entities such as asset numbers, locations, persons, etc., from the input text. It utilizes the spaCy library and a pre-trained spaCy model for English NER (en_core_web_sm). The NER model is trained on labeled data and can accurately identify specific entities mentioned in the text.
+
+Implementation Details
+Preprocessing: The input text is preprocessed to tokenize and prepare it for input to the NER model.
+Entity Extraction: The NER model extracts entities such as asset numbers, locations, persons, etc., from the input text using the spaCy library.
+Data Augmentation: Data augmentation techniques, such as synonym replacement, are applied to enhance the training data and improve model performance.
+Natural Language Understanding (NLU) Model
+The NLU model is responsible for understanding the intent of the user's input text and classifying it into predefined categories. It utilizes the BERT (Bidirectional Encoder Representations from Transformers) model for sequence classification to classify text into categories such as asset move, asset receive, asset adjust, etc.
+
+Implementation Details
+Preprocessing: The input text is preprocessed and tokenized using the BERT tokenizer.
+Model Architecture: The NLU model is based on the BERT architecture and is fine-tuned for sequence classification tasks.
+Training: The NLU model is trained on labeled data using the BERT model architecture and fine-tuning techniques.
+Testing Script
+The testing script contains unit tests, integration tests, validation tests, error handling tests, security tests, performance tests, and deployment tests to ensure the reliability, security, and performance of the main script.
+
+Testing Components
+Unit Testing: Tests individual components and functions within the main script.
+Integration Testing: Tests the interaction between different components of the system.
+Validation Testing: Validates input parameters and ensures that they meet specified criteria.
+Error Handling Testing: Verifies that error handling mechanisms are working as expected.
+Security Testing: Identifies potential security vulnerabilities and ensures that sensitive data is handled securely.
+Performance Testing: Evaluates the performance of the main script under different load conditions.
+Deployment Testing: Tests the deployment of the main script to a staging environment.
+This documentation provides an overview of the main script, including the NER model, the NLU model, and the testing script. It outlines the key components, implementation details, and testing strategies used to ensure the reliability and performance of the script.

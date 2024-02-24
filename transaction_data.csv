@@ -1,0 +1,121 @@
+﻿text,label
+"""Relocate asset 5 from storage room A to storage room B""",0
+"""Transfer asset number 20 to department X from department Y""",0
+"""Move asset 15 from location A to location B""",0
+"""Shift asset 8 to the new warehouse""",0
+"""Move asset number 12 to the new facility""",0
+"""Transfer asset 30 from warehouse Alpha to warehouse Beta""",0
+"""Relocate asset 25 from room 101 to room 102""",0
+"""Move asset number 18 to the storage area""",0
+"""Shift asset 22 to the main storage""",0
+"""Transfer asset 35 from department A to department B""",0
+"""Move asset 10 from warehouse A to warehouse B""",0
+"""Relocate asset number 7 to the new office location""",0
+"""Transfer asset 28 from location Alpha to location Beta""",0
+"""Move asset 14 to the storage room""",0
+"""Shift asset number 9 to the new storage facility""",0
+"""Transfer asset 32 from department X to department Y""",0
+"""Move asset 21 from room 201 to room 202""",0
+"""Relocate asset 17 to the new warehouse""",0
+"""Transfer asset number 26 from warehouse Beta to warehouse Gamma""",0
+"""Move asset 11 to the storage area""",0
+"""Shift asset 6 to the main storage""",0
+"""Transfer asset 37 from department A to department B""",0
+"""Move asset 19 from warehouse A to warehouse B""",0
+"""Relocate asset number 13 to the new office location""",0
+"""Transfer asset 33 from location Alpha to location Beta""",0
+"""Move asset 16 to the storage room""",0
+"""Shift asset number 24 to the new storage facility""",0
+"""Transfer asset 38 from department X to department Y""",0
+"""Move asset 29 from room 301 to room 302""",0
+"""Relocate asset 27 to the new warehouse""",0
+"""Transfer asset number 36 from warehouse Beta to warehouse Gamma""",0
+"""Move asset 23 to the storage area""",0
+"""Shift asset 31 to the main storage""",0
+"""Transfer asset 39 from department A to department B""",0
+"""Move asset 34 from warehouse A to warehouse B""",0
+"""Relocate asset number 40 to the new office location""",0
+"""Transfer asset 41 from location Alpha to location Beta""",0
+"""Move asset 42 to the storage room""",0
+"""Shift asset number 43 to the new storage facility""",0
+"""Transfer asset 44 from department X to department Y""",0
+"""Receive 10 units of asset number 5 from supplier Alpha""",1
+"""Accept delivery of asset 18 with a quantity of 3""",1
+"""Get in stock asset number 22 with a total of 10 units""",1
+"""Receive 5 items of asset 14 from vendor Beta""",1
+"""Confirm receipt of 20 units for asset number 9""",1
+"""Receive 8 units of asset number 10 from supplier Gamma""",1
+"""Accept delivery of asset 20 with a quantity of 6""",1
+"""Get in stock asset number 25 with a total of 15 units""",1
+"""Receive 6 items of asset 17 from vendor Delta""",1
+"""Confirm receipt of 25 units for asset number 12""",1
+"""Receive 12 units of asset number 15 from supplier Epsilon""",1
+"""Accept delivery of asset 28 with a quantity of 4""",1
+"""Get in stock asset number 30 with a total of 20 units""",1
+"""Receive 7 items of asset 19 from vendor Zeta""",1
+"""Confirm receipt of 30 units for asset number 23""",1
+"""Receive 15 units of asset number 35 from supplier Theta""",1
+"""Accept delivery of asset 38 with a quantity of 5""",1
+"""Get in stock asset number 40 with a total of 25 units""",1
+"""Receive 9 items of asset 37 from vendor Iota""",1
+"""Confirm receipt of 35 units for asset number 42""",1
+"""Receive 18 units of asset number 45 from supplier Kappa""",1
+"""Accept delivery of asset 48 with a quantity of 6""",1
+"""Get in stock asset number 50 with a total of 30 units""",1
+"""Receive 10 items of asset 47 from vendor Lambda""",1
+"""Confirm receipt of 40 units for asset number 52""",1
+"""Receive 20 units of asset number 55 from supplier Mu""",1
+"""Accept delivery of asset 58 with a quantity of 8""",1
+"""Get in stock asset number 60 with a total of 35 units""",1
+"""Receive 12 items of asset 57 from vendor Nu""",1
+"""Confirm receipt of 45 units for asset number 62""",1
+"""Receive 25 units of asset number 65 from supplier Xi""",1
+"""Accept delivery of asset 68 with a quantity of 10""",1
+"""Get in stock asset number 70 with a total of 40 units""",1
+"""Receive 14 items of asset 67 from vendor Omicron""",1
+"""Confirm receipt of 50 units for asset number 72""",1
+"""Receive 30 units of asset number 75 from supplier Pi""",1
+"""Accept delivery of asset 78 with a quantity of 12""",1
+"""Get in stock asset number 80 with a total of 45 units""",1
+"""Receive 16 items of asset 77 from vendor Rho""",1
+"""Confirm receipt of 55 units for asset number 82""",1
+"""Adjust the quantity of asset 3 to 10 units""",2
+"""Modify the quantity to 15 for asset number 6""",2
+"""Change the count to 8 for asset 17""",2
+"""Update the stock count of asset 28 to 50""",2
+"""Amend the quantity to 12 for asset number 11""",2
+"""Adjust the quantity of asset 13 to 20 units""",2
+"""Modify the quantity to 25 for asset number 16""",2
+"""Change the count to 18 for asset 27""",2
+"""Update the stock count of asset 38 to 60""",2
+"""Amend the quantity to 22 for asset number 31""",2
+"""Adjust the quantity of asset 33 to 30 units""",2
+"""Modify the quantity to 35 for asset number 36""",2
+"""Change the count to 28 for asset 39""",2
+"""Update the stock count of asset 40 to 70""",2
+"""Amend the quantity to 42 for asset number 44""",2
+"""Adjust the quantity of asset 46 to 40 units""",2
+"""Modify the quantity to 45 for asset number 49""",2
+"""Change the count to 48 for asset 51""",2
+"""Update the stock count of asset 53 to 80""",2
+"""Amend the quantity to 52 for asset number 56""",2
+"""Adjust the quantity of asset 58 to 50 units""",2
+"""Modify the quantity to 55 for asset number 61""",2
+"""Change the count to 58 for asset 63""",2
+"""Update the stock count of asset 65 to 90""",2
+"""Amend the quantity to 62 for asset number 68""",2
+"""Adjust the quantity of asset 70 to 60 units""",2
+"""Modify the quantity to 65 for asset number 73""",2
+"""Change the count to 68 for asset 75""",2
+"""Update the stock count of asset 78 to 100""",2
+"""Amend the quantity to 72 for asset number 81""",2
+"""Adjust the quantity of asset 83 to 70 units""",2
+"""Modify the quantity to 75 for asset number 86""",2
+"""Change the count to 78 for asset 88""",2
+"""Update the stock count of asset 90 to 110""",2
+"""Amend the quantity to 82 for asset number 93""",2
+"""Adjust the quantity of asset 95 to 80 units""",2
+"""Modify the quantity to 85 for asset number 98""",2
+"""Change the count to 88 for asset 100""",2
+"""Update the stock count of asset 102 to 120""",2
+"""Amend the quantity to 92 for asset number 105",2
